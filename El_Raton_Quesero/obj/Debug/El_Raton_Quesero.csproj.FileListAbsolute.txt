@@ -1,0 +1,15 @@
+C:\Users\Eduardo Varela\source\repos\El_Raton_Quesero\El_Raton_Quesero\bin\Debug\El_Raton_Quesero.exe.config
+C:\Users\Eduardo Varela\source\repos\El_Raton_Quesero\El_Raton_Quesero\bin\Debug\El_Raton_Quesero.exe
+C:\Users\Eduardo Varela\source\repos\El_Raton_Quesero\El_Raton_Quesero\bin\Debug\El_Raton_Quesero.pdb
+C:\Users\Eduardo Varela\source\repos\El_Raton_Quesero\El_Raton_Quesero\obj\Debug\El_Raton_Quesero.csproj.AssemblyReference.cache
+C:\Users\Eduardo Varela\source\repos\El_Raton_Quesero\El_Raton_Quesero\obj\Debug\El_Raton_Quesero.csproj.SuggestedBindingRedirects.cache
+C:\Users\Eduardo Varela\source\repos\El_Raton_Quesero\El_Raton_Quesero\obj\Debug\El_Raton_Quesero.Juego.resources
+C:\Users\Eduardo Varela\source\repos\El_Raton_Quesero\El_Raton_Quesero\obj\Debug\El_Raton_Quesero.Properties.Resources.resources
+C:\Users\Eduardo Varela\source\repos\El_Raton_Quesero\El_Raton_Quesero\obj\Debug\El_Raton_Quesero.csproj.GenerateResource.cache
+C:\Users\Eduardo Varela\source\repos\El_Raton_Quesero\El_Raton_Quesero\obj\Debug\El_Raton_Quesero.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo Varela\source\repos\El_Raton_Quesero\El_Raton_Quesero\obj\Debug\El_Raton_Quesero.exe
+C:\Users\Eduardo Varela\source\repos\El_Raton_Quesero\El_Raton_Quesero\obj\Debug\El_Raton_Quesero.pdb
+C:\Users\Eduardo Varela\source\repos\El_Raton_Quesero\El_Raton_Quesero\bin\Debug\El_Raton_Quesero.exe.manifest
+C:\Users\Eduardo Varela\source\repos\El_Raton_Quesero\El_Raton_Quesero\bin\Debug\El_Raton_Quesero.application
+C:\Users\Eduardo Varela\source\repos\El_Raton_Quesero\El_Raton_Quesero\obj\Debug\El_Raton_Quesero.exe.manifest
+C:\Users\Eduardo Varela\source\repos\El_Raton_Quesero\El_Raton_Quesero\obj\Debug\El_Raton_Quesero.application
